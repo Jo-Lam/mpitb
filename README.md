@@ -17,7 +17,7 @@ pip install mpitb
 
 ```github
 pip install git+https://github.com/<Jo-Lam>/mpitb.git
-
+```
 
 ## 📚 Additional Resources
 
