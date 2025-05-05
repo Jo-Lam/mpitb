@@ -5,8 +5,12 @@
 
 ## Attribution
 
-This work builds upon code originally developed by Nicolai Suppa (2022), licensed under the MIT License.
-This guide introduces the `MPIToolbox` Python class, designed to estimate, compare, and summarize multidimensional poverty indices (MPI) using flexible specifications.
+This is a partial adaptation of Stata package "mpitb" originally developed by Nicolai Suppa (2022), licensed under the MIT License. Full documentation can be accessed [here](https://gitlab.com/nsuppa/mpitb).
+
+This guide introduces the `MPIToolbox` Python class, designed to estimate, compare, and summarize multidimensional poverty indices (MPI) using flexible specifications. 
+
+For more details of MPI/AF method : visit [OPHI website](https://ophi.org.uk/global-mpi/2024)
+
 
 ## 🚀 Installation
 
