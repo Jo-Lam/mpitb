@@ -1,9 +1,23 @@
 # 📘 MPIToolbox User Guide
 
+[![PyPI version](https://img.shields.io/pypi/v/mpitb.svg)](https://pypi.org/project/mpitb/)
+[![License](https://img.shields.io/github/license/Jo-Lam/mpitb)](LICENSE)
+
 ## Attribution
 
 This work builds upon code originally developed by Nicolai Suppa (2022), licensed under the MIT License.
 This guide introduces the `MPIToolbox` Python class, designed to estimate, compare, and summarize multidimensional poverty indices (MPI) using flexible specifications.
+
+## 🚀 Installation
+
+### From PyPI (Recommended)
+
+```bash
+pip install mpitb
+
+```github
+pip install git+https://github.com/<Jo-Lam>/mpitb.git
+
 
 ## 📚 Additional Resources
 
