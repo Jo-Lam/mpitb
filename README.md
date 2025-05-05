@@ -15,7 +15,7 @@ This guide introduces the `MPIToolbox` Python class, designed to estimate, compa
 ```bash
 pip install mpitb
 
-```github
+# or directly from github
 pip install git+https://github.com/<Jo-Lam>/mpitb.git
 ```
 
