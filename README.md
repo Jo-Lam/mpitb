@@ -11,7 +11,6 @@ This guide introduces the `MPIToolbox` Python class, designed to estimate, compa
 
 For more details of MPI/AF method : visit [OPHI website](https://ophi.org.uk/global-mpi/2024)
 
-
 ## 🚀 Installation
 
 ### From PyPI (Recommended)
@@ -157,6 +156,9 @@ You can manually add structured metadata to `mpi.results["myresults"]`.
 ---
 
 ## 🧪 Example Quick Start
+A Jupyter Notebook can be found in the tests folder. The notebook replicates example 1-4 of the original tutorial in the Stata package, covering comparisons of multiple models, as well as changes over time. 
+
+Here is a simple illustration of the tool.
 
 ```python
 mpi = MPIToolbox()
