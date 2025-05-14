@@ -1,0 +1,10 @@
+citHeader("To cite mpitb in publications, please use:")
+
+citEntry(entry = "manual",
+  author = "Joseph Lam",
+  title = "mpitb: toolbox for analysing multidimensional poverty.",
+  year = "2025",
+  note = "Python version >= 3.7",
+  url = "https://github.com/Jo-Lam/mpitb",
+  textVersion = "J. Lam (2025) mpitb: toolbox for analysing multidimensional poverty. Python >= 3.7. https://github.com/Jo-Lam/mpitb."
+)
